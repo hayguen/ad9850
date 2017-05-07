@@ -57,7 +57,7 @@ Some Links / References:
 
 
 LICENSE:
-all BSD style, (c)2017 Hayati Ayguen <h_ayguen@web.de>
+MIT, (c)2017 Hayati Ayguen <h_ayguen@web.de>
 
 exceptions:
 - Teensy RawHID source files

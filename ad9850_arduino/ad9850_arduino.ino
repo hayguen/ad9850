@@ -1,6 +1,6 @@
 
 /* (c)2017 Hayati Ayguen <h_ayguen@web.de>
- * License: BSD style
+ * License: MIT
  *
  * program for microController Teensy 3.1 with IDE Teensyduino:
  * settings for Arduino IDE:
