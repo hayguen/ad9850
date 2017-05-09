@@ -64,12 +64,10 @@ exceptions:
   see http://www.pjrc.com/teensy/rawhid.html
 
 - Arduino Controller Library for AD9850 Module/Shield
-  see www.arduino-projekte.de
+  see http://www.arduino-projekte.de
   http://www.arduino-projekte.de/index.php?n=7
   http://www.arduino-projekte.de/download.php?id=28
 
-  for compilation/upload you need to copy the files
-    AH_AD8950.cpp and AH_AD8950.h from AH_AD9850_20121026.zip
-    into the subfolder ad9850_arduino
-      besides the Arduino project file ad9850_arduino.ino.
+  AH_AD8950.cpp and AH_AD8950.h in the subfolder ad9850_arduino
+  are from AH_AD9850_20121026.zip - with kind permission
 
